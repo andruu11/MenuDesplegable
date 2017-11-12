@@ -1,0 +1,10 @@
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\bin\Debug\MenuDesplegable.exe.config
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\bin\Debug\MenuDesplegable.exe
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\bin\Debug\MenuDesplegable.pdb
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\obj\Debug\MenuDesplegable.csprojResolveAssemblyReference.cache
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\obj\Debug\MenuDesplegable.Properties.Resources.resources
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\obj\Debug\MenuDesplegable.csproj.GenerateResource.Cache
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\obj\Debug\MenuDesplegable.exe
+D:\Ayudantia\proyectos-visualstudio\MenuDesplegable\WindowsFormsApplication3\obj\Debug\MenuDesplegable.pdb
